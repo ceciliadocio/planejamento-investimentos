@@ -10,6 +10,6 @@ Ideal pra quem está começando a investir ou pra quem gosta de manter tudo sob 
 
 ### Funcionalidades
 
-- Simulação de rentabilidade com a evolução histórica
+- Simulação de rentabilidade com a evolução histórica dos fundos imobiliários
 - Simulação de cenários diversos
 - Gráficos para acompanhar a distribuição
